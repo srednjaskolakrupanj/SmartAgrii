@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+
+# Node.js
+node_modules/
+build/
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
+
