@@ -12,7 +12,7 @@ Projekat obuhvata Flask backend, React frontend, IoT simulaciju i ML model za an
 
 Preporuceno pokretanje projekta (instalirati Docker na racunaru i pokrenuti ga)
 
-Pokrenut novi prvi WLS 
+Pokrenut novi prvi WSL 
 
 *cd SmartAgrii
 
