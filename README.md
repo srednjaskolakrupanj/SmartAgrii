@@ -11,8 +11,9 @@ Projekat obuhvata Flask backend, React frontend, IoT simulaciju i ML model za an
 - **docker-compose.yml** – opcionalno pokretanje u Docker okruženju
 
 Pokretanje (Docker)
-docker-compose up --build
-Frontend (Streamlit) — npr. http://localhost:8501 ili 8502
+*docker-compose up --build
+
+*Frontend (Streamlit) — npr. http://localhost:8501 ili 8502
 
 Pokretanje ručno (bez Dockera) — WSL / Linux / macOS
 BACKEND
