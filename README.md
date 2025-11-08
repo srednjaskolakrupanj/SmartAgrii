@@ -49,7 +49,6 @@ Treci novi WSL - FRONTEND
 
 
 
-
 Poslednji korak:
 
 Pokrenuti pretrazivac na racunaru i uneti: http://localhost:8502 ili http://localhost:8501
