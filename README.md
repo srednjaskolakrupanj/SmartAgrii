@@ -10,15 +10,15 @@ Projekat obuhvata Flask backend, React frontend, IoT simulaciju i ML model za an
 - **ml/** – mašinsko učenje i model trening
 - **docker-compose.yml** – opcionalno pokretanje u Docker okruženju
 
-Pokretanje (Docker)
+Preporuceno pokretanje projekta (instalirati Docker na racunaru i pokrenuti ga)
 
+Pokrenut novi prvi WLS 
+*cd SmartAgrii
+*python3 -m venv venv
+*source venv/bin/activate
 *docker-compose up --build
 
-*Frontend (Streamlit) — npr. http://localhost:8501 ili 8502
-
-Pokretanje ručno (bez Dockera) — WSL / Linux / macOS
-
-BACKEND
+Drugi novi WSL - BACKEND
 
 *cd flask_api
 
@@ -30,7 +30,7 @@ BACKEND
 
 *python app.py
 
-FRONTEND
+treci novi WSL - FRONTEND
 
 *cd frontend
 
