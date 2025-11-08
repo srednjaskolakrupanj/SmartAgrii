@@ -42,7 +42,7 @@ FRONTEND
 
 *streamlit run app.py
 
-IoT simulacija (pokretanje)
+IOT simulacija (pokretanje)
 
 *cd iot_sim
 
