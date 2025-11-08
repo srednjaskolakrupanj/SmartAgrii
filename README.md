@@ -46,11 +46,8 @@ Treci novi WSL - FRONTEND
 
 *streamlit run app.py
 
-IOT simulacija (pokretanje)
 
-*cd iot_sim
 
-*python simulate_sensors.py
 
 
 Poslednji korak:
