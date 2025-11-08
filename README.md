@@ -34,7 +34,7 @@ Drugi novi WSL - BACKEND
 
 *python app.py
 
-treci novi WSL - FRONTEND
+Treci novi WSL - FRONTEND
 
 *cd frontend
 
